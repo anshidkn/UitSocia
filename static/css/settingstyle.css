@@ -1,0 +1,16 @@
+/* Styles for profile picture upload */
+.form-group .row {
+	margin-top: 10px;
+}
+
+.form-group .row .col-md-4 {
+	text-align: center;
+}
+
+.form-group .row .col-md-4 img {
+	border-radius: 50%;
+}
+
+.form-group .row .col-md-8 input[type="file"] {
+	margin-top: 5px;
+}
